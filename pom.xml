@@ -31,7 +31,7 @@
     </properties>
 
     <scm>
-        <developerConnection>scm:git:git@github.com:[username]/[repository].git</developerConnection>
+        <developerConnection>scm:git:git@github.com:ElizaSarkozi/sfg-pet-clinic.git</developerConnection>
         <tag>sfg-pet-clinic-0.0.1</tag>
     </scm>
 
